@@ -31,7 +31,6 @@ nav img {
 nav {
     margin-left: 120px;
     margin-right: 120px;
-    margin-bottom: 60px;
 
     display: flex;
     justify-content: space-between;
@@ -79,6 +78,7 @@ nav .ham-btn i {
     }
     nav img {
         margin-left: 120px;
+        width: 120px
     }
     nav {
         padding-bottom: 20px;
@@ -91,12 +91,11 @@ nav .ham-btn i {
     }
     nav ul {
         text-align: center;
-        position: fixed;
-        top: 100px;
+        top: 80px;
         left: -100%;
         background-color: #0F0F0F;
         height: fit-content;
-        position: fixed;
+        position: absolute;
         width: 100%;
         display: block;
         transition: all 0.3s ease-in;
@@ -111,7 +110,6 @@ nav .ham-btn i {
 @media (max-width: 650px) {
     nav img {
         margin-left: 20px;
-        width: 120px;
     }
     nav .ham-btn i {
         margin-right: 20px;
@@ -127,7 +125,7 @@ nav .ham-btn i {
 .homepage-body {
     background-image:linear-gradient(90deg, rgba(0, 0, 0, 0.9) 5.44%, rgba(0, 0, 0, 0.73) 93.99%), url(../img/home_background.jpg);
     background-size: cover;
-    background-repeat: no-repeat center center fixed;
+    background-repeat: no-repeat center fixed;
     background-position: center;
     color: #ffffff;
     min-width: 100%;
