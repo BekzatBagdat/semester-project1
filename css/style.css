@@ -424,6 +424,14 @@ nav .ham-btn i {
         max-width: 250px;
     }
 }
+@media (max-width: 300px) {
+    .explore-main-div-one h2{
+        font-size: 2rem;
+    }
+    .explore-main-div-one p{
+        font-size: 0.8rem;
+    }
+}
 
 
 
