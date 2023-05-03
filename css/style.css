@@ -131,13 +131,13 @@ nav .ham-btn i {
 .explore-section {
     margin-left: 120px;
     margin-right: 120px;
-    margin-top: 60px;
+    margin-top: 150px;
     margin-bottom: 60px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 50vh;
+    height: fit-content;
 }
 .explore-section h1 {
     font-style: normal;
