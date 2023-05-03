@@ -252,7 +252,8 @@ nav .ham-btn i {
     background-repeat: no-repeat center fixed;
     background-position: center;
     color: #ffffff;
-    width: 100vw;
+    max-width: 100vw;
+    min-width: 100%;
     height: fit-content;
 }
 .explore-section {
@@ -302,6 +303,9 @@ nav .ham-btn i {
 }
 .kids-h2 {
     color: #FAFF00;
+}
+.teachers-h2 {
+    color: #0085FF;
 }
 
 
