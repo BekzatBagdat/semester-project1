@@ -19,7 +19,7 @@ body {
 header {
     background-image:linear-gradient(90deg, rgba(0, 0, 0, 0.9) 5.44%, rgba(0, 0, 0, 0.73) 93.99%), url(../img/home_background.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat center center fixed;
     background-position: center;
     color: #ffffff;
     width: 100%;
