@@ -440,7 +440,7 @@ nav .ham-btn i {
 }
 
 /*Explore Main div images with text*/
-.explore-main-div-two {
+.explore-main-div-two, .explore-main-div-three, .explore-main-div-four {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -454,7 +454,7 @@ nav .ham-btn i {
     max-width: 100vw;
     min-width: 100%;
 }
-.explore-main-div-two p{
+.explore-main-div-two p,.explore-main-div-three p,.explore-main-div-four p{
     text-align: left;
     margin-top: 400px;
     margin-bottom: 400px;
@@ -469,58 +469,8 @@ nav .ham-btn i {
     line-height: 200%;
 }
 .explore-main-div-three {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    height: max-content;
     background-image:linear-gradient(90deg, rgba(0, 0, 0, 0.941) 5.44%, rgba(0, 0, 0, 0.737) 93.99%), url(../img/scientific.jpg);
-    background-size: cover;
-    background-repeat: no-repeat center fixed;
-    background-position: center;
-    color: #ffffff;
-    max-width: 100vw;
-    min-width: 100%;
-}
-.explore-main-div-three p{
-    text-align: left;
-    margin-top: 400px;
-    margin-bottom: 400px;
-    margin-left: 120px;
-    margin-right: 120px;
-    color: #ffffff;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 1.2rem;
-    letter-spacing: 0.155rem;
-
-    line-height: 200%;
 }
 .explore-main-div-four {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    height: max-content;
     background-image:linear-gradient(90deg, rgba(0, 0, 0, 0.941) 5.44%, rgba(0, 0, 0, 0.737) 93.99%), url(../img/lab.jpg);
-    background-size: cover;
-    background-repeat: no-repeat center fixed;
-    background-position: center;
-    color: #ffffff;
-    max-width: 100vw;
-    min-width: 100%;
-}
-.explore-main-div-four p{
-    text-align: left;
-    margin-top: 400px;
-    margin-bottom: 400px;
-    margin-left: 120px;
-    margin-right: 120px;
-    color: #ffffff;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 1.2rem;
-    letter-spacing: 0.155rem;
-
-    line-height: 200%;
 }
