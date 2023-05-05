@@ -486,3 +486,21 @@ nav .ham-btn i {
 .explore-main-div-four a:hover{
     color: #ff0000;
 }
+
+@media (max-width: 664px) {
+    .explore-main-div-two p,.explore-main-div-three p,.explore-main-div-four p{
+        margin-left: 20px;
+        margin-right: 20px;
+        font-size: 1rem;
+    }
+    .explore-main-div-four a{
+        color: #ffffff;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 1rem;
+        letter-spacing: 0.155rem;
+        line-height: 200%;
+        transition: all 0.3s ease;
+    }
+
+}
