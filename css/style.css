@@ -34,7 +34,7 @@ body {
     border-radius: 20px;
 }
 body h1, body h2, body p, body ul {
-    animation: pageTransition 0.75s;
+    animation: pageTransition 0.8s;
     
 }
 
