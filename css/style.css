@@ -25,7 +25,7 @@ body {
     background-color: #efefef;
     color: #0F0F0F;
 
-    animation: pageTransition 1s;
+    animation: pageTransition 0.8s;
     
 }
 header {
