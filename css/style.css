@@ -4,13 +4,11 @@
 }
 @keyframes pageTransition {
     from {
-        opacity: 0.2;
+        opacity: 0;
         filter: blur(100%);
-        background-color: #0F0F0F;
     }
     to {
         opacity: 1;
-        transition: all 0.3s ease;
         filter: none;
     }
 }
@@ -27,8 +25,9 @@ body {
     scroll-behavior: smooth;
     background-color: #efefef;
     color: #0F0F0F;
-
-    animation: pageTransition 0.8s;
+}
+body h1, body h2, body p, body ul {
+    animation: pageTransition 0.75s;
     
 }
 header {
