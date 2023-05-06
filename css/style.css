@@ -17,7 +17,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
 
 body {
@@ -25,11 +24,20 @@ body {
     scroll-behavior: smooth;
     background-color: #efefef;
     color: #0F0F0F;
+    overflow: overlay;
+}
+::-webkit-scrollbar {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: #0f0f0f6c;
+    border-radius: 20px;
 }
 body h1, body h2, body p, body ul {
     animation: pageTransition 0.75s;
     
 }
+
 header {
     height: 100vh;
 }  
