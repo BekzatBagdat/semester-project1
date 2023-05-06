@@ -4,11 +4,14 @@
 }
 @keyframes pageTransition {
     from {
-        opacity: 0;
+        opacity: 0.2;
+        filter: blur(100%);
+        background-color: #0F0F0F;
     }
     to {
         opacity: 1;
         transition: all 0.3s ease;
+        filter: none;
     }
 }
 /*Reset Styles*/
