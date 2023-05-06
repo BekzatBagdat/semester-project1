@@ -31,6 +31,7 @@ body {
     background: #0f0f0f6c;
     border-radius: 20px;
 }
+/*pageTransition*/
 body h1, body h2, body p, body ul {
     animation: pageTransition 0.8s;
     
