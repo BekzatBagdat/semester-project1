@@ -844,6 +844,16 @@ footer {
     }
 }
 
+@media (max-width: 347px) {
+    .exhibitions-main-img-div{
+        width: 200px;
+    }
+    .exhibitions-main-img-div img {
+        margin-bottom: 5px;
+        max-width: 200px;
+    }
+}
+
 
 
 
