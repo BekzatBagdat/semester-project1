@@ -724,9 +724,6 @@ footer {
     align-items: flex-start;
     flex-direction: column;
 }
-.exhibitions-main-img-div-biol {
-    padding-left: 0;
-}
 .exhibitions-main {
     margin-top: 120px;
     margin-left: 120px;
@@ -764,6 +761,9 @@ footer {
     display: flex;
     justify-content: center;
     flex-direction: column;
+}
+.exhibitions-main-img-div-biol {
+    margin-left: 0;
 }
 .exhibitions-main-img-div p {
     text-align: left;
