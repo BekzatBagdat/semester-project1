@@ -716,6 +716,18 @@ footer {
         font-size: 2.5em;
     }
 }
+@media (max-width: 303px) {
+    .exhibitions-section h1 {
+        font-size: 1.4em;
+    }
+    
+    .exhibitions-section p {
+        font-size: 0.7rem;
+    }
+    .exhibitions-content-ul li {
+        font-size: 0.7rem;
+    }
+}
 
 /*Exhibitions Main Section*/
 .exhibitions-main-section {
@@ -1325,4 +1337,81 @@ footer {
     font-weight: 200;
     font-size: 1.4rem;
     letter-spacing: 0.595rem;
+}
+@media (max-width: 650px) {
+    .support-section {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+@media (max-width: 416px) {
+    .support-section h1 {
+        font-size: 2em;
+    }
+    .support-section p {
+        font-size: 1rem;
+    }
+}
+
+.support-main {
+    margin-bottom: 120px;
+}
+
+.support-main-div {
+    margin-top: 60px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 60px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.support-main-div h2 {
+    width: 300px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 1.4rem;
+    letter-spacing: 0.15rem;
+}
+.support-main-div p {
+    width: 300px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 650px) {
+    .support-main-div {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+@media (max-width: 320px) {
+    .support-main-div h2 {
+        width: 250px;
+    }
+    .support-main-div p {
+        width: 250px;
+    }
+}
+@media (max-width: 270px) {
+    .support-main-div h2 {
+        width: 200px;
+    }
+    .support-main-div p {
+        width: 200px;
+    }
+}
+@media (max-width: 220px) {
+    .support-main-div h2 {
+        width: 100px;
+    }
+    .support-main-div p {
+        width: 100px;
+    }
 }
