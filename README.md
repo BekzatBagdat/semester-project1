@@ -3,69 +3,37 @@
 ![screencapture-csm-bekzatbagdat-netlify-app-2023-12-05-00_12_10](https://github.com/BekzatBagdat/semester-project1/assets/89454659/302986e6-9f88-4e0c-ba26-dffcf4428d6a)
 
 
-A simple overview of the use/purpose of the project.
+This was my semester project 1 with the Brief: 
+
+An interactive science museum called the Community Science Museum is opening in your town/city. Its core target audience is primary and middle school children (ages 7-15) and families with young children. The museum wants an informative, appealing website to attract middle school pupils and their parents. The site should appeal to youngsters without pandering; it should take for granted that the audience is curious and intelligent. The website should be informative and engaging, encouraging viewers to visit the museum. The website should be responsive and easy to use on various devices.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
-
-You can add some bullet points if you'd like to:
-
-- List item 1
-- List item 2
-- List item 3
+This was the requirements for the website:
+- The site must have a design that appeals to the target audience.
+- The site must have at least 4-6 pages.
+- Compositional principles, typography, and colour schemes must be considered.
+- Your HTML should be semantic and neatly indented.
+- The site should use external CSS style sheets which follow the DRY principle.
+- The site should download quickly and not be overly “heavy”. Images should be at most 200kb.
+- The site should consider WCAG principles, especially regarding hierarchy, navigation, and colour usage.
+- The site should be responsive, attractive, and easy to use on various devices.
+- The site should show consideration for content strategy and SEO (consider your use of meta tags and alt text).
 
 ## Built With
 
 You can list a the tech stack that you've used over here
 
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+- [Figma](https://www.figma.com/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-## Getting Started
+## Links
 
-### Installing
-
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
-
-1. Clone the repo:
-
-```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
-```
-
-2. Install the dependencies:
-
-```
-npm install
-```
-
-### Running
-
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
-
-```bash
-npm run start
-```
-
-## Contributing
-
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+-[Site Deployment](https://csm-bekzatbagdat.netlify.app/)
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
+E-mail: bekzatupw@gmail.com
 
-[My Twitter page](www.twitter.com)
 
-[My LinkedIn page](www.linkedin.com)
-
-## License
-
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
-
-## Acknowledgments
-
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
