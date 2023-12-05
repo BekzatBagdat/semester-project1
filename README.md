@@ -30,7 +30,7 @@ You can list a the tech stack that you've used over here
 
 ## Links
 
--[Site Deployment](https://csm-bekzatbagdat.netlify.app/)
+- [Site Deployment](https://csm-bekzatbagdat.netlify.app/)
 
 ## Contact
 
