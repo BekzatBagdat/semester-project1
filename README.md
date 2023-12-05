@@ -1,6 +1,7 @@
-# Your project title
+# Community Science Museum
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![screencapture-csm-bekzatbagdat-netlify-app-2023-12-05-00_12_10](https://github.com/BekzatBagdat/semester-project1/assets/89454659/302986e6-9f88-4e0c-ba26-dffcf4428d6a)
+
 
 A simple overview of the use/purpose of the project.
 
